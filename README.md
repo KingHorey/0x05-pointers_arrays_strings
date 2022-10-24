@@ -1,6 +1,6 @@
 Repository contains tasks about:
 
----> pointers "\n"
+---> pointers '\n'
 ---> memory address
 ---> call by value
 ---> derefencing
